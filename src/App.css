@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    flex-direction: row;
+}
+
+.pool__container, .list__container {
+    padding: 10px;
+}
+
+.list__container div {
+    margin: 0 10px;
+}
+
+.pool__container {
+    flex: 60%;
+}
+
+.list__container {
+    flex: 40%;
+}
+
+h1 {
+    margin: 0 10px 10px 10px;
+}

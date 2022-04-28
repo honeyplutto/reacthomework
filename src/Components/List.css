@@ -1,0 +1,7 @@
+.list__item {
+    list-style: none;
+}
+
+.list__item span {
+    margin: 0 10px;
+}

@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "title": "Post #1",
+        "comments": [
+            {
+                "id": "item1",
+                "text": " Donec consequat lacinia massa, quis sodales libero.",
+                "rate": 6
+            },
+            {
+                "id": "item2",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "rate": 2
+            },
+            {
+                "id": "item3",
+                "text": "Aenean efficitur non magna eu blandit.",
+                "rate": 5
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "id": 2,
+        "title": "Post #2",
+        "comments": [
+            {
+                "id": "item4",
+                "text": "Pellentesque facilisis diam a venenatis interdum.",
+                "rate": 2
+            },
+            {
+                "id": "item5",
+                "text": "Phasellus congue finibus magna in tincidunt.",
+                "rate": 16
+            },
+            {
+                "id": "item6",
+                "text": "Donec feugiat sem eros, in facilisis odio suscipit nec.",
+                "rate": 14
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "id": 3,
+        "title": "Post #3",
+        "comments": [
+            {
+                "id": "item7",
+                "text": "Nam et urna tristique, tincidunt nunc at, ultricies mi.",
+                "rate": 6
+            },
+            {
+                "id": "item8",
+                "text": "Etiam maximus eros ut eros fermentum semper.",
+                "rate": 4
+            },
+            {
+                "id": "item9",
+                "text": "Etiam euismod enim et elementum condimentum.",
+                "rate": 4
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "id": 4,
+        "title": "Post #4",
+        "comments": [
+            {
+                "id": "item10",
+                "text": "Sed dictum felis sit amet sem rhoncus volutpat.",
+                "rate": 3
+            },
+            {
+                "id": "item11",
+                "text": "Praesent quis bibendum nibh, a consequat lectus.",
+                "rate": 4
+            },
+            {
+                "id": "item12",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "rate": 12
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "id": 5,
+        "title": "Post #5",
+        "comments": [
+            {
+                "id": "item13",
+                "text": "Vestibulum tempor nisi purus, quis accumsan magna pellentesque non.",
+                "rate": 15
+            },
+            {
+                "id": "item14",
+                "text": "Aliquam rhoncus libero sit amet elit rutrum, et gravida purus faucibus.",
+                "rate": 21
+            },
+            {
+                "id": "item15",
+                "text": "Nullam faucibus nulla neque, vel pretium enim lobortis id.",
+                "rate": 3
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "id": 6,
+        "title": "Post #6",
+        "comments": [
+            {
+                "id": "item16",
+                "text": "Vestibulum tempor nisi purus, quis accumsan magna pellentesque non.",
+                "rate": 19
+            },
+            {
+                "id": "item17",
+                "text": "Aliquam rhoncus libero sit amet elit rutrum, et gravida purus faucibus.",
+                "rate": 16
+            },
+            {
+                "id": "item18",
+                "text": "Nullam faucibus nulla neque, vel pretium enim lobortis id.",
+                "rate": 4
+            }
+        ],
+        "disabled": false
+    },
+    {
+        "id": 7,
+        "title": "Post #7",
+        "comments": [
+            {
+                "id": "item19",
+                "text": "Vestibulum tempor nisi purus, quis accumsan magna pellentesque non.",
+                "rate": 14
+            },
+            {
+                "id": "item20",
+                "text": "Aliquam rhoncus libero sit amet elit rutrum, et gravida purus faucibus.",
+                "rate": 1
+            },
+            {
+                "id": "item21",
+                "text": "Nullam faucibus nulla neque, vel pretium enim lobortis id.",
+                "rate": 33
+            }
+        ],
+        "disabled": false
+    }
+]
